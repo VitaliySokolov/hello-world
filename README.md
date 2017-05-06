@@ -1,5 +1,8 @@
 ## Title
-*An important text here.*
-_italic_
-=mono=
+**An important text here.**
 
+*italic*
+
+~~strike out~~
+
+mono
